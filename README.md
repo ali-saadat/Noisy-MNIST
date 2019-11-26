@@ -1,2 +1,0 @@
-# Noisy-MNIST
-Python CNN

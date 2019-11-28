@@ -24,4 +24,44 @@ at first the simple version of the problem will be addressed, next, I will conti
 
 mnist-back-image: a patch from a black and white image was used as the background for the digit image. The patches were extracted randomly from a set of 20 images downloaded from the internet. Patches which had low pixel variance (i.e. contained little texture) were ignored;
 
+![mnist-back-image](https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048832517/variations-on-the-mnist-digits/mnist_back_image.png)
+
+mnist-back-rand: a random background was inserted in the digit image. Each pixel value of the background was generated uniformly between 0 and 255;
+
+![mnist-back-rand] (mnist-back-rand: a random background was inserted in the digit image. Each pixel value of the background was generated uniformly between 0 and 255;)
+
+![mnist-back-rand] (https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
+
+mnist-rot-back-image: the perturbations used in mnist-rot and mnist-back-image were combined.
+
+![mnist-rot-back-image] (https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
+
 ```
+the work flow will be as follow:
+
+Simple MNIST data set
+* library input
+* data gatherig
+* data visualization
+* data exploration
+* data tranformation
+* data loading
+* model building
+* model copiling
+* model evaluation
+* accuracy, precision, recall, F1, kappa, confusion_matrix
+
+
+Noisy MNIST data set
+* library input
+* data gatherig
+* data visualization
+* data exploration
+* data tranformation
+* data loading
+* model building
+* model copiling
+* model evaluation
+* accuracy, precision, recall, F1, kappa, confusio
+
+İletişim detayları: Ali.saadat81@gmail.com

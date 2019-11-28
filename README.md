@@ -28,13 +28,11 @@ mnist-back-image: a patch from a black and white image was used as the backgroun
 
 mnist-back-rand: a random background was inserted in the digit image. Each pixel value of the background was generated uniformly between 0 and 255;
 
-![mnist-back-rand] (mnist-back-rand: a random background was inserted in the digit image. Each pixel value of the background was generated uniformly between 0 and 255;)
-
-![mnist-back-rand] (https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
+![mnist-back-rand](https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
 
 mnist-rot-back-image: the perturbations used in mnist-rot and mnist-back-image were combined.
 
-![mnist-rot-back-image] (https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
+![mnist-rot-back-image](https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
 
 ```
 the work flow will be as follow:

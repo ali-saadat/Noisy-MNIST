@@ -35,7 +35,7 @@ mnist-rot-back-image: the perturbations used in mnist-rot and mnist-back-image w
 ![mnist-rot-back-image](https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/_/rsrc/1392048838794/variations-on-the-mnist-digits/mnist_rot_back_image.png)
 
 ```
-the work flow will be as follow:
+the workflow will be as follows:
 
 Simple MNIST data set
 * library input
